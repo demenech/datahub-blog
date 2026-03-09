@@ -15,6 +15,8 @@ Queryless lets anyone explore data using natural language—like asking "What we
 
 > 👉 **Learn more and try Queryless:** visit [https://querylessai.com](https://querylessai.com).
 
+https://youtu.be/KM5RhPq9jn0
+
 ## The Problem
 
 Organizations accumulate data in many everyday formats that often become the starting point for analysis, for example:
