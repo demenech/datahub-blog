@@ -1,6 +1,6 @@
 ---
 title: "How Queryless Turns Raw Data Files Into Insights with DuckDB"
-description: "Queryless lets anyone explore raw data using natural language—like asking \"What were our sales last month?" in chat. Behind the scenes, it generates analytical SQL queries and runs them on DuckDB to turn files into fast, interactive insights."
+description: "Queryless lets anyone explore raw data using natural language—like asking \"What were our sales last month?\" in chat. Behind the scenes, it generates analytical SQL queries and runs them on DuckDB to turn files into fast, interactive insights."
 date: 2026-03-09
 authors: [João Demenech]
 ---
@@ -9,11 +9,11 @@ authors: [João Demenech]
 
 In a previous article, we explored the idea of **chat‑first access to data** and how Queryless makes it possible to interact with datasets through conversation (see: [https://datahub.io/blog/data-portals-to-chat-first-access](https://datahub.io/blog/data-portals-to-chat-first-access)).
 
-In this article, we focus on a specific part of that system: **how [Queryless](https://querylessai.com) analyzes raw data files**. 
+In this article, we focus on a specific part of that system: **how [Queryless](https://datahub.io/queryless) analyzes raw data files**. 
 
 Queryless lets anyone explore data using natural language—like asking "What were our sales last month?" in chat. Behind the scenes, it generates analytical SQL queries and runs them on DuckDB to turn files into fast, interactive insights. But before looking at how Queryless analyzes raw files, it helps to understand the challenge teams face when working with them.
 
-> 👉 **Learn more and try Queryless:** visit [https://querylessai.com](https://querylessai.com).
+> 👉 **Learn more and try Queryless:** visit [https://querylessai.com](https://datahub.io/queryless).
 
 https://youtu.be/KM5RhPq9jn0
 
@@ -148,5 +148,5 @@ Queryless combines several technologies to make raw data easier to explore:
 
 Together these components allow teams to move from **raw files to insights** through a chat‑first approach to data access—echoing the broader idea explored in our earlier article. Instead of building pipelines and dashboards first, teams can start by simply asking questions and iterating from there.
 
-> 👉 To learn more or try it yourself, visit [**https://querylessai.com**](https://querylessai.com).
+> 👉 To learn more or try it yourself, visit [**https://querylessai.com**](https://datahub.io/queryless).
 
